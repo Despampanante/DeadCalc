@@ -1,9 +1,8 @@
 prgmZSETUP
+prgmZINSTRS
 ClrDraw
-RecallPic 2
-Text(0,0,"v0.0.1
-Pause 
-ClrDraw
-{0,0,0,0}→⌊CHR
-{0,0,0}→⌊RZZ
+0->L
+DelVar [A]{20,20->dim([A]
+0->dim(|LKEY
 prgmZMAIN
+prgmZGAMEOVR
