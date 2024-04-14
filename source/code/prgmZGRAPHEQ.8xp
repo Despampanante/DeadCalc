@@ -25,6 +25,7 @@ X+.3->X
 If X<=10
 Goto A
 
+"This is functional but could be optimized"
 Lbl C
 0->A
 1->W
@@ -32,8 +33,9 @@ Lbl B
 If |LKEY(W)=0
 1->A
 W+1->W
-If W<dim(|LKEY
+If W<=dim(|LKEY
 Goto B
 
 "Set A to 0 to continue to next level"
-
+If A!=0
+P-1->P

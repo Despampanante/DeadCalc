@@ -3,7 +3,7 @@
 If A=1
 "Congratulations! The Calculator is complete."->Str0
 If A=2
-"L Bozo, no calculator and no victory screen :("->Str0
+"L Bozo, no victory screen :("->Str0
 If A=3
 "ERROR"->Str0
 If A=4
