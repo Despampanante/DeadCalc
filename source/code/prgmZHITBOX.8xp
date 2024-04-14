@@ -14,10 +14,12 @@ If A>1 and A<10
 Then
 Pt-On(G,H,3,12
 1->|LLUV(A-1)
+0->[A](WH+10.5,G+10.5)
 End
 If A>=10
 Then
 Pt-On(G,H,2,13
 1->|LKEY(A-10)
+0->[A](WH+10.5,G+10.5)
 End
 Lbl A

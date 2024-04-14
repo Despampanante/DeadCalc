@@ -21,7 +21,7 @@ If X!=0 and Y!=0
 prgmZHITBOX
 If F=1
 Goto C
-X+.1->X
+X+.3->X
 If X<=10
 Goto A
 
