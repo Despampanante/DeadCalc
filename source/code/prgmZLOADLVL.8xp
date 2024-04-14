@@ -4,7 +4,7 @@ Fill(0,[A]
 0->dim(|LLUV
 
 If L=0
-{3,1,1,14,11,20,20,3,3,4,4,5,5,6,6,7,7,8,8}->|LLVL
+{3,1,1,7,5,7,6,7,7,4,4,5,5,6,6,7,7,8,8}->|LLVL
 
 |LLVL(2)->dim(|LKEY
 |LLVL(3)->dim(|LLUV
@@ -19,7 +19,7 @@ Lbl A
 A+1->A
 |LLVL(A)->Y
 A+1->A
-1->[A](X,Y)
+1->[A](Y,X)
 X-11->X
 Y-10->Y
 prgmZSPRITES

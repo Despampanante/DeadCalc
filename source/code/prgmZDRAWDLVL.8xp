@@ -11,7 +11,7 @@ Goto B
 A+1->A
 |LLVL(A+1)->Y
 A+1->A
-W+10->[A](X,Y)
+W+10->[A](Y,X)
 X-11->X
 Y-10->Y
 prgmZSPRITES
@@ -35,7 +35,7 @@ Goto D
 A+1->A
 |LLVL(A+1)->Y
 A+1->A
-W+1->[A](X,Y)
+W+1->[A](Y,X)
 X-11->X
 Y-10->Y
 prgmZSPRITES

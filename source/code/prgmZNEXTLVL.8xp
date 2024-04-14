@@ -1,1 +1,5 @@
-"TODO: Take in a level number, assume it is variable A rn, and look up what new equation piece they have access to
+ClrHome
+Disp "Congrats!"
+Disp "You finished level"
+Disp L
+Pause 

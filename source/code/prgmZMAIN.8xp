@@ -8,6 +8,7 @@ Lbl B
 prgmZBUILDEQ
 If A
 Goto G
+prgmZDRAWLVL
 prgmZGRAPHEQ
 If A
 Goto B
