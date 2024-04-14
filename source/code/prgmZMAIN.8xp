@@ -1,5 +1,5 @@
 Lbl A
-If L>5
+If L>8
 Goto Z
 prgmZLOADLVL
 Lbl G

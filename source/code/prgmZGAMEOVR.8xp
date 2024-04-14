@@ -1,7 +1,7 @@
 "TODO: Take in a status, assume variable A rn, and give the user the good or bad ending"
 
 If A=1
-"Congratulations! The Calculator is complete."->Str0
+"Congratulations! You win!"->Str0
 If A=2
 "L Bozo, no victory screen :("->Str0
 If A=3

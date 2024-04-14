@@ -15,6 +15,9 @@ Then
 Pt-On(G,H,2,13
 1->|LLUV(A-1)
 0->[A](WH+10.5,G+10.5)
+prgmZDRWHRTS
+0->W
+W-1->W
 If P<3
 P+1->P
 End

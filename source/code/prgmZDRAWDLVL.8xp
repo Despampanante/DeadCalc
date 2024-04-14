@@ -29,7 +29,7 @@ Text(107,38,W
 Goto D
 Lbl C
 W+1->W
-If W<|LLUV(W)=1
+If |LLUV(W)=1
 Goto D
 |LLVL(A)->X
 |LLVL(A+1)->Y
